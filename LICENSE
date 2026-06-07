@@ -1,0 +1,123 @@
+# GhostForge Free Use License (GF-FUL) v1.0
+# GhostForge Kostenlose Nutzungslizenz (GF-FUL) v1.0
+
+Copyright (c) 2026 B2D2 | GhostForge
+
+---
+
+## Deutsch
+
+Diese Software wird kostenlos bereitgestellt, ist jedoch **nicht gemeinfrei**.
+Die Nutzung, Bearbeitung und Weiterverbreitung ist nur unter den nachfolgenden Bedingungen erlaubt.
+
+### 1. Kostenlose Nutzung
+
+Du darfst diese Software kostenlos für private Projekte, Community-Projekte und Server-Projekte verwenden.
+
+Der kommerzielle Weiterverkauf dieser Software als eigenständiges Produkt ist nicht erlaubt.
+
+### 2. Verpflichtende Credits
+
+Die ursprünglichen Credits müssen in allen Kopien, Forks, Bearbeitungen und weiterverbreiteten Versionen sichtbar und unverändert erhalten bleiben:
+
+**Created by B2D2 | GhostForge**
+
+Die Credits dürfen im README, Release-Beitrag, in der `fxmanifest.lua`, in Resource-Metadaten, in der Dokumentation oder an einer anderen klar sichtbaren Stelle platziert werden.
+
+Das Entfernen, Verstecken, Verändern oder Ersetzen der Credits ist nicht erlaubt.
+
+### 3. Erforderliche kostenlose Lizenz
+
+Vor der Nutzung dieser Software auf einem öffentlichen Server oder vor der Weiterverbreitung bearbeiteter Versionen muss die kostenlose Lizenz über den offiziellen GhostForge Discord-Server erworben werden.
+
+Die Lizenz ist kostenlos, aber verpflichtend erforderlich.
+
+### 4. Discord-Pflicht
+
+Nutzer dieser Software müssen während der Nutzung auf einem öffentlichen Server Mitglied des offiziellen GhostForge Discord-Servers sein.
+
+Dies dient dem Support, Update-Hinweisen und der Lizenzüberprüfung.
+
+### 5. Bearbeitungen
+
+Du darfst die Software für deinen eigenen Server oder dein eigenes Projekt bearbeiten.
+
+Bearbeitete Versionen müssen weiterhin die ursprünglichen Credits enthalten und dürfen nicht den Eindruck erwecken, dass B2D2 oder GhostForge deine bearbeitete Version offiziell unterstützt, betreut oder gewartet hat, sofern keine ausdrückliche Erlaubnis erteilt wurde.
+
+### 6. Weiterverbreitung
+
+Du darfst diese Software oder bearbeitete Versionen nur weiterverbreiten, wenn:
+
+- du eine schriftliche Bestätigung oder Erlaubnis des GhostForge Projektinhabers [B2D2] hast.
+
+### 7. Keine Gewährleistung
+
+Diese Software wird ohne jegliche Gewährleistung bereitgestellt.
+
+B2D2 und GhostForge übernehmen keine Verantwortung für Schäden, Datenverluste, Serverprobleme, Inkompatibilitäten oder sonstige Probleme, die durch Nutzung, Bearbeitung oder Weiterverbreitung dieser Software entstehen.
+
+### 8. Beendigung der Nutzungserlaubnis
+
+Wenn du gegen diese Bedingungen verstößt, wird deine Erlaubnis zur Nutzung, Bearbeitung und Weiterverbreitung dieser Software sofort widerrufen.
+
+Durch die Nutzung, Bearbeitung oder Weiterverbreitung dieser Software erklärst du dich mit diesen Bedingungen ohne weiteres einverstanden.
+
+---
+
+## English
+
+This software is provided free of charge, but is **not in the public domain**.
+
+Use, modification, and redistribution are permitted only under the following conditions.
+
+### 1. Free Use
+
+You may use this software free of charge for personal projects, community projects, and server projects.
+
+Reselling this software commercially as a standalone product is not permitted.
+
+### 2. Mandatory Credits
+
+The original credits must remain visible and unchanged in all copies, forks, modifications, and redistributed versions:
+
+**Created by B2D2 | GhostForge**
+
+The credits may be placed in the README, release notes, `fxmanifest.lua`, resource metadata, documentation, or any other clearly visible location.
+
+Removing, hiding, altering, or replacing the credits is not permitted.
+
+### 3. Required Free License
+
+Before using this software on a public server or redistributing modified versions, the free license must be obtained via the official GhostForge Discord server.
+
+The license is free but mandatory.
+
+### 4. Discord Requirement
+
+Users of this software must be members of the official GhostForge Discord server while using it on a public server.
+
+This is for support, update notifications, and license verification.
+
+### 5. Modifications
+
+You may modify the software for your own server or project.
+
+Modified versions must retain the original credits and must not give the impression that B2D2 or GhostForge officially supports, maintains, or endorses your modified version unless explicit permission has been granted.
+
+### 6. Redistribution
+
+You may only redistribute this software or modified versions if:
+
+- you have written confirmation or permission from the GhostForge project owner [B2D2].
+
+### 7. No Warranty
+
+This software is provided without any warranty.
+
+B2D2 and GhostForge assume no responsibility for damages, data loss, server problems, incompatibilities, or other issues arising from the use, modification, or redistribution of this software.
+
+### 8. Termination of Permission
+
+If you violate these terms, your permission to use, modify, and redistribute this software will be revoked immediately.
+
+By using, modifying, or redistributing this software, you agree to these terms without further ado.
